@@ -17,7 +17,7 @@ class SoftwareEngineer:
         self.tools = ["Spring-boot", "Micronaut", "Ionic", "Django", "Flask", "React", "Redux", ]
     
     def sayHi(self):
-        print("Thanks for visit my profile, hope you find some of my profile interesting.")
+        print("Thanks for visit my github, hope you find some of my profile interesting.")
 
 me = SoftwareEngineer()
 me.sayHi()
